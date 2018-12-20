@@ -1,0 +1,11 @@
+{
+  "name": "@chrisczach/react-utilities",
+  "version": "0.1.0",
+  "description": "Utility Components for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@chrisczach",
+  "license": "ISC"
+}
